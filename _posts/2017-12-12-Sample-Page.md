@@ -5,7 +5,7 @@ published: true
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+
 
 There should be whitespace between paragraphs.
 
@@ -20,21 +20,6 @@ shotaro es una aplicacion para el desarrollo de aplicaciones moviles para androi
 intergaga sera un emulador para pc en el cual emularemos mucho dispositivos moviles con un rendimiento mejorado que en los moviles 
 
 ### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 
 ### There's a horizontal rule below this.
