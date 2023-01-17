@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: shotaro
 published: true
 ---
 
@@ -11,15 +11,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-1)Shotaro 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+shotaro es una aplicacion para el desarrollo de aplicaciones moviles para android y apple el aplicacion sera lanzada mundialmente el día 27 de febrero del 2024 
 
-## [](#header-2)Header 2
+## [](#header-2) intergaga
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+intergaga sera un emulador para pc en el cual emularemos mucho dispositivos moviles con un rendimiento mejorado que en los moviles 
 
 ### [](#header-3)Header 3
 
@@ -38,26 +36,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
